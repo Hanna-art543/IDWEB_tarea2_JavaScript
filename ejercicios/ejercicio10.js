@@ -25,3 +25,4 @@ const paresCuadrados = (arreglo) => {
 let cantidad = parseInt(prompt("Ingresar cantidad de elementos:"));
 alert("Arreglo de números pares al cuadrado:"+
     "\n["+ingresarArreglo(cantidad, paresCuadrados)+"]");
+
