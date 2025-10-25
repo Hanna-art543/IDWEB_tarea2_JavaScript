@@ -18,4 +18,5 @@ function soloUnaVez (arr) {
 let cantidad = parseInt(prompt("Ingrese cantidad de elementos:"));
 let arreglo = ingresarArreglo(cantidad);
 
-alert("Arreglo de elementos únicos: "+soloUnaVez(arreglo));
+alert("Arreglo de elementos únicos: ["+soloUnaVez(arreglo)+"]");
+
