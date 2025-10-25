@@ -22,4 +22,5 @@ const multiplosNum = (arreglo, num) => {
 //Mostrar resultados
 let cantidad = parseInt(prompt("Ingrese la cantidad de elementos: "));
 let num = parseInt(prompt("Número del cuál deben ser múltiplos:"))
-alert("Cantidad de múltiplos de "+num+" : "+ingresarArreglo(cantidad, num, multiplosNum));
+alert("Cantidad de múltiplos de "+num+" = "+ingresarArreglo(cantidad, num, multiplosNum));
+
