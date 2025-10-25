@@ -18,3 +18,5 @@ let resultado = operar(arreglo1, arreglo2);
 alert("Unión: [" + resultado[0] +"]"+
     "\nIntersección: [" + resultado[1] +"]"+
     "\nDiferencia: [" + resultado[2]+"]");
+
+    
